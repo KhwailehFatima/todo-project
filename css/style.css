@@ -1,0 +1,45 @@
+html{
+    background-color: rgb(58, 57, 155);
+}
+header{
+    background-color: azure;
+}
+.about{
+    position: relative;
+    margin-left: 700px;
+    margin-top: 55px;
+    font-size: 50px;
+}
+main{
+    background-color: azure;
+    height: 400px;
+    width: 300px;
+    align-items: center;
+    padding: 2rem;
+    position: relative;
+    margin-left: 570px;
+}
+
+.main_about{
+    width: 95%;
+    height: 500px;
+    margin: 0;
+}
+table{
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    border-width: 2cm;
+}
+footer{
+    color: azure;
+    align-items: center;
+    text-align: center;
+}
+footer:hover{
+    color :gray;
+    box-shadow: inset;
+}
+.github{
+    color: azure;
+}
